@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 29f7d8e392dd66d4aa1bc64f996c3a40
+guid: 47c28581b5693e046b25c0d8025a0c8b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -69,7 +69,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -124,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66edf40b24ea454468ac108151d921bb
-      internalID: 1616631719
+      spriteID: 34e91b2d83cc0cc458feb3f0a67c8150
+      internalID: 529997108
       vertices: []
       indices: 
       edges: []
@@ -145,8 +145,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4873e69161df976468b6334b2996dea6
-      internalID: 1517488158
+      spriteID: 8f9cb6f9fe002704fb4e57ffd5b85739
+      internalID: -1450904839
       vertices: []
       indices: 
       edges: []
@@ -166,8 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7fce364ab648b140956990f94dad38c
-      internalID: -722879137
+      spriteID: 861f534d1b068be408a7985232201db9
+      internalID: -1035031614
       vertices: []
       indices: 
       edges: []
@@ -187,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50f79d5693dac754ba15f9ff18a95ff8
-      internalID: 985521046
+      spriteID: 9b1a475efa978404da9e7e87f6c91516
+      internalID: 2145984844
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Corsair_0: 1616631719
-      Corsair_1: 1517488158
-      Corsair_2: -722879137
-      Corsair_3: 985521046
+      Corsair_0: 529997108
+      Corsair_1: -1450904839
+      Corsair_2: -1035031614
+      Corsair_3: 2145984844
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

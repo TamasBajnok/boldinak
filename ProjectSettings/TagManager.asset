@@ -16,6 +16,9 @@ TagManager:
   - HealPU
   - PlayerSpecialTag
   - PlayerUndamagable
+  - BossBlastTag
+  - BossEngines
+  - TimerText
   layers:
   - Default
   - TransparentFX
@@ -53,11 +56,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3555135681
+    locked: 0
+  - name: BackObject
+    uniqueID: 1550905269
+    locked: 0
+  - name: Boss
+    uniqueID: 991534891
+    locked: 0
   - name: GamePlay
     uniqueID: 2783777473
     locked: 0
-  - name: Background
-    uniqueID: 3555135681
+  - name: GamePlay
+    uniqueID: 2783777473
     locked: 0
   - name: Effects
     uniqueID: 486020657

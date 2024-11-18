@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0b78de38c2121cd468d9074af47282af
+guid: 6b2a5705c6d2f8e4baa74b5b6cb95959
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -69,7 +69,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -124,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a218877aa5854cb4e818f9fa853fb037
-      internalID: -564912442
+      spriteID: 47dec73ad99d30d4ca7db857e8750dba
+      internalID: -1411757189
       vertices: []
       indices: 
       edges: []
@@ -145,8 +145,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a0b7686073c71640baf057df4ce774c
-      internalID: 84401285
+      spriteID: fcfac04aad8b40040bbbaf0afbe893e3
+      internalID: 1916314510
       vertices: []
       indices: 
       edges: []
@@ -166,8 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ff72b18912b879428b4b74508f36374
-      internalID: -2130291390
+      spriteID: 27929e365a2e4434a84d36fa2680c5e6
+      internalID: -775531145
       vertices: []
       indices: 
       edges: []
@@ -187,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d74cff4b25a7b904fa8e0d21df1d6cad
-      internalID: -792434083
+      spriteID: 7056d4779edea5c4fa13acb611256444
+      internalID: -879081104
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      P-51-mustang-green_0: -564912442
-      P-51-mustang-green_1: 84401285
-      P-51-mustang-green_2: -2130291390
-      P-51-mustang-green_3: -792434083
+      P-51-mustang-green_0: -1411757189
+      P-51-mustang-green_1: 1916314510
+      P-51-mustang-green_2: -775531145
+      P-51-mustang-green_3: -879081104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
